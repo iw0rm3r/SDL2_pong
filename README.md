@@ -6,7 +6,8 @@
  - A/Z for left racket movement
  - up/down for right racket movement
  - F to toggle framerate counter
- - ESC to exit the game<br>
+ - ESC to exit the game
+
 **DirectInput** joysticks/gamepads support is also implemented: gamepad 1 is left player, and second one is right. Vibration feedback is present.
 
 **Requirements:**<br>
