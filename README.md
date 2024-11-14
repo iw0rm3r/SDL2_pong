@@ -10,7 +10,7 @@
  - ESC to exit the game
 DirectInput joysticks/gamepads support is also implemented: gamepad 1 is left player, and second one is right. Vibration feedback is present.
 
-**Requirements:**
+**Requirements:**<br>
 SDL2 libraries: https://github.com/orgs/libsdl-org/repositories<br>
 Linker options list to build this project using MinGW32 is:<br>
 `-lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_ttf`<br>
